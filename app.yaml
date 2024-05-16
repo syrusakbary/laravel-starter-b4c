@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: syrusakbary-laravel-starter-b4c
+owner: syrusakbary
+package: .
+scaling:
+  mode: single_concurrency
